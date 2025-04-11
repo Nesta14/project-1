@@ -1,0 +1,149 @@
+
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+    background-color: lightgray; 
+}
+.two{
+    display: flex;
+}
+.bugha{
+    width: 550px; 
+    height: 450px; 
+    background-color: black;
+    color: white; 
+    justify-content: center;
+    text-align: center;
+    font-size: 14px;
+    border-radius: 0px;
+}
+
+
+.image{
+    width: 50%;
+    height: 200px;
+    background-color: black;
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    border-radius: 8px;
+}
+.img{
+    border-radius: 8%;
+}
+.right {
+    display: flex;
+    flex-direction: column;
+    width: 50%;
+    gap: 15px;
+    margin-top: 2%;
+}
+.top {
+    width: 94%;
+    height: 100px; 
+    background-color: rgb(211, 95, 95);
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    border-radius: 10px;
+}
+
+.bottom {
+    width: 94%;
+    height: 65px; 
+    background-color: rgb(182, 114, 207);
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    border-radius: 10px;
+}
+.second {
+    background-color: orange;
+    width: 525px;
+    height: 60px;
+    border-radius: 10px;
+    margin-bottom: 2%;
+    margin-left: 2%;
+    }
+.container{
+    gap: 10px;
+    display: flex;
+    margin-left: 2%;
+    margin-right: -4%;
+}
+.box1{
+    background: linear-gradient(rgb(77, 77, 125));   
+    width: 30%;
+    height: 99px;
+    justify-content: center;
+    border-radius: 20px;
+    }
+.box2{
+    background: linear-gradient(rgb(179, 160, 126));   
+    width: 30%;
+    height: 99px;
+    justify-content: center;
+    border-radius: 20px;
+    }
+.box3{
+    background: linear-gradient(rgb(145, 229, 145));   
+    width: 30%;
+    height: 99px;
+    justify-content: center;
+    border-radius: 20px;
+    }
+.boxes{
+    display: flex;
+    gap: 6px;
+    justify-content: center;
+    margin-top: 10px;
+    width: 530px;
+    margin-left: 10px;
+    margin-right: -10px;
+    }
+.b1{
+    width: 20%;
+    background-color: wheat;
+    height: 60px;
+    border-radius: 15px;
+    }
+.b2{
+    width: 20%;
+    background-color: wheat;
+    height: 60px;
+    border-radius: 15px;
+   }
+.b3{
+    width: 20%;
+    background-color: wheat;
+    height: 60px;
+    border-radius: 15px;
+   }
+.b4{
+    width: 20%;
+    background-color: wheat;
+    height: 60px;
+    border-radius: 15px;
+   }
+.b5{
+    width: 20%;
+    background-color: wheat;
+    height: 60px;
+    border-radius: 15px;
+   }
+.b6{
+    width: 20%;
+    background-color: wheat;
+    height: 60px;
+    border-radius: 15px;
+    }
+
